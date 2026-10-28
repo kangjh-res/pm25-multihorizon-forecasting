@@ -1,0 +1,1 @@
+v66 repairs 2023 short CAMS coverage by reusing v60 verified h1-12 prior CAMS joins; uses existing v64 bilinear GRIB h25-36. Retrains 24 prior bilinear models, checks exact v60 common keys. No GRIB re-decoding with --reuse-grib.

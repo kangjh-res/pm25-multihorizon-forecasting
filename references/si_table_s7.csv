@@ -1,0 +1,7 @@
+Wind-transition condition,n,Observed ΔPM2.5,Predicted ΔPM2.5,"RMSE
+at 18 h","Mean bias
+at 18 h"
+Low WS + Small WD shift,128,4.88,2.12,13.04,- 6.78
+Low WS + Large WD shift,96,6.16,1.15,11.21,- 4.77
+High WS + Small WD shift,96,13.23,- 3.84,25.27,- 21.50
+High WS + Large WD shift,129,22.66,- 1.04,23.84,- 19.74

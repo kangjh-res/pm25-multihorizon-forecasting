@@ -1,0 +1,12 @@
+# Minimum package list; exact versions MUST be pinned from the validated research environment.
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+xgboost
+torch
+matplotlib
+shap
+eccodes
+pytest
